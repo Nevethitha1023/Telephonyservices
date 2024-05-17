@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90c05e3b-0819-431b-88c4-e1f3842fe807" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/AndroidStudioProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/androidTest/java/com/example/telephonyservice/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/java/com/example/telephonyservice/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/java/com/example/telephonyservice/ui/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/java/com/example/telephonyservice/ui/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/java/com/example/telephonyservice/ui/theme/Type.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/app/src/test/java/com/example/telephonyservice/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/gradle/libs.versions.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telephonyservice/settings.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <branch-grouping />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SHOW_RECENT_BRANCHES" value="false" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Nevethitha1023"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0f1ea6bb-c0ec-42ff-8ceb-962545036a8c" />
+        <option name="url" value="https://github.com/Nevethitha1023/Telephonyservices.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2gbI6tG6noq2xH77Kmcog3K419w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/AndroidStudioProjects"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90c05e3b-0819-431b-88c4-e1f3842fe807" name="Changes" comment="" />
+      <created>1715959677721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715959677721</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
+  </component>
+</project>
